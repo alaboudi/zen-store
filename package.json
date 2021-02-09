@@ -31,7 +31,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "zen-store",
+  "name": "@zenstack/zen-store",
   "author": "Yazan Alaboudi",
   "module": "dist/zen-store.esm.js",
   "size-limit": [
