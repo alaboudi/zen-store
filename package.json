@@ -1,4 +1,8 @@
 {
+  "repository": {
+    "url": "https://github.com/alaboudi/zen-store",
+    "type": "git"
+  },
   "keywords": [
     "state container",
     "state store",
