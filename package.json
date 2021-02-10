@@ -1,4 +1,5 @@
 {
+  "keywords": ["state container", "state store", "reactive programming"],
   "version": "0.1.1",
   "license": "MIT",
   "main": "dist/index.js",
