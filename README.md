@@ -22,7 +22,7 @@ const stateStore = createStateStore(initialState);
 //you can also use a class if you are object oriented
 import { StateStore } from "@zenstack/zen-bus";
 const initialState = 0;
-const eventBus = new StateStore(initialState);
+const stateStore = new StateStore(initialState);
 ```
 
 ### Retrieve State
